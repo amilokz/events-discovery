@@ -1,0 +1,44 @@
+{
+  "events": [
+    {
+      "id": "event1",
+      "name": "Summer Music Festival",
+      "date": "June 15, 2025 • 4:00 PM",
+      "location": "Central Park",
+      "description": "Join us for a day of live music featuring local bands and artists. Food trucks and art vendors will be on site.",
+      "type": "music"
+    },
+    {
+      "id": "event2",
+      "name": "Web Development Workshop",
+      "date": "June 22, 2025 • 10:00 AM",
+      "location": "Tech Hub Downtown",
+      "description": "Learn the basics of HTML, CSS, and JavaScript in this hands-on workshop. Perfect for beginners!",
+      "type": "tech"
+    },
+    {
+      "id": "event3",
+      "name": "Food Truck Friday",
+      "date": "June 28, 2025 • 5:00 PM",
+      "location": "Main Street Square",
+      "description": "Sample delicious food from 20+ local food trucks. Live music and family-friendly activities.",
+      "type": "food"
+    },
+    {
+      "id": "event4",
+      "name": "Yoga in the Park",
+      "date": "July 5, 2025 • 8:00 AM",
+      "location": "Riverside Park",
+      "description": "Start your weekend with a relaxing yoga session. All skill levels welcome. Bring your own mat.",
+      "type": "sports"
+    },
+    {
+      "id": "event5",
+      "name": "Art & Wine Night",
+      "date": "July 12, 2025 • 7:00 PM",
+      "location": "Local Art Gallery",
+      "description": "Create your own masterpiece while enjoying local wines. No artistic experience required!",
+      "type": "workshop"
+    }
+  ]
+}

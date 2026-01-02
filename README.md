@@ -6,7 +6,6 @@ A responsive, interactive events discovery page built for the Dynamics 360 Web D
 
 [View the live demo here](https://amilokz.github.io/events-discovery/) 
 
-*(Replace with your actual deployment link)*
 
 ## Features
 
